@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+
+.nav {
+    display: grid;
+    flex-direction: row;
+    text-align: center;
+}
